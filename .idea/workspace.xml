@@ -27,35 +27,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Phone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-              <folding>
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Demo01PhoneOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Demo02PhoneOne.java">
+        <entry file="file://$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo02/Demo02Anonymous.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+            <state relative-caret-position="418">
+              <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <folding>
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,6 +78,26 @@
         <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Phone.java" />
         <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Demo01PhoneOne.java" />
         <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Demo02PhoneOne.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Demo04PhoneParam.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Demo04PhoneReturn.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo03/Demo01VariableDifference.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo03/Demo02Method.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo03/Person.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo03/Demo03Person.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo03/Student.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo03/Demo04Student.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo04/Demo01Person.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo04/Person.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo04/Student.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo04/Demo02Student.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo05/Student.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo05/Demo01Student.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo1/Demo01Scanner.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo1/Demo02ScannerSum.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo1/Demo03ScannerMax.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo02/Person.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo02/Demo01Anonymous.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo02/Demo02Anonymous.java" />
       </list>
     </option>
   </component>
@@ -114,8 +114,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1079" />
-    <option name="y" value="69" />
+    <option name="x" value="228" />
+    <option name="y" value="89" />
     <option name="width" value="1443" />
     <option name="height" value="965" />
   </component>
@@ -134,50 +134,41 @@
           <expand>
             <path>
               <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day06-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day06-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day06-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day06-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="itcast" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day06-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day06-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
-              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="day07" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day06-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
+              <item name="day07" type="462c0819:PsiDirectoryNode" />
               <item name="demo02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -211,13 +202,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo02PhoneOne">
-    <configuration name="Demo01PhoneOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day06.demo02.Demo01PhoneOne" />
-      <module name="day06-code" />
+  <component name="RunManager" selected="Application.Demo02Anonymous">
+    <configuration name="Demo01Anonymous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day07.demo02.Demo01Anonymous" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day06.demo02.*" />
+          <option name="PATTERN" value="cn.itcast.day07.demo02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01PrintArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day06.demo01.Demo01PrintArray" />
-      <module name="day06-code" />
+    <configuration name="Demo01Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day07.demo1.Demo01Scanner" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day06.demo01.*" />
+          <option name="PATTERN" value="cn.itcast.day07.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02ArrayReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day05.demo03.Demo02ArrayReturn" />
-      <module name="day05-code" />
+    <configuration name="Demo02Anonymous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day07.demo02.Demo02Anonymous" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day05.demo03.*" />
+          <option name="PATTERN" value="cn.itcast.day07.demo02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02PhoneOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day06.demo02.Demo02PhoneOne" />
-      <module name="day06-code" />
+    <configuration name="Demo02ScannerSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day07.demo1.Demo02ScannerSum" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day06.demo02.*" />
+          <option name="PATTERN" value="cn.itcast.day07.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day06.demo01.Demo02Student" />
-      <module name="day06-code" />
+    <configuration name="Demo03ScannerMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day07.demo1.Demo03ScannerMax" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day06.demo01.*" />
+          <option name="PATTERN" value="cn.itcast.day07.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo02PhoneOne" />
-        <item itemvalue="Application.Demo01PhoneOne" />
-        <item itemvalue="Application.Demo02Student" />
-        <item itemvalue="Application.Demo01PrintArray" />
-        <item itemvalue="Application.Demo02ArrayReturn" />
+        <item itemvalue="Application.Demo02Anonymous" />
+        <item itemvalue="Application.Demo01Anonymous" />
+        <item itemvalue="Application.Demo03ScannerMax" />
+        <item itemvalue="Application.Demo02ScannerSum" />
+        <item itemvalue="Application.Demo01Scanner" />
       </list>
     </recent_temporary>
   </component>
@@ -297,16 +288,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590194995438</updated>
-      <workItem from="1590194998536" duration="10909000" />
+      <workItem from="1590194998536" duration="21713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10909000" />
+    <option name="totallyTimeSpent" value="21713000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1079" y="69" width="1443" height="965" extended-state="0" />
-    <editor active="true" />
+    <frame x="228" y="89" width="1443" height="965" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -323,8 +313,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.328125" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35817307" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6045673" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -463,6 +453,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Demo02PhoneOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Demo01PhoneOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Demo04PhoneReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Demo04PhoneParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Phone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -476,17 +494,195 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Demo01PhoneOne.java">
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo03/Demo01VariableDifference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="456">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo02/Demo02PhoneOne.java">
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo03/Demo03Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo03/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo03/Demo02Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="method#getMax#0;class#Demo02Method#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo03/Demo04Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo03/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo04/Demo01Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo04/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo04/Demo02Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo04/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo05/Demo01Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/itcast/day06/demo05/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/javaDev/jdk1.8.0_111/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="2104" column="15" selection-start-line="2104" selection-start-column="15" selection-end-line="2104" selection-end-column="15" />
+          <folding>
+            <element signature="e#78006#78007#0" expanded="true" />
+            <element signature="e#78050#78051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo1/Demo01Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo1/Demo02ScannerSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo1/Demo03ScannerMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo02/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo02/Demo01Anonymous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo02/Demo02Anonymous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
