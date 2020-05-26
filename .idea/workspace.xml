@@ -2,33 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88a35407-8e36-443a-9862-7c28b97f7661" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/Demo04/Demo01Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/Demo04/Demo02ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/Demo04/Demo03ArrayListMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/Demo04/Demo04ArrayListEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/Demo04/Demo05ArrayListBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/Demo04/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo03/Demo01Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo03/Demo02Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo03/Demo03Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo03/Demo04Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo05/Demo01ArrayListRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo05/Demo02ArrayListStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo05/Demo03ArrayListPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo05/Demo04ArrayListReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/itcast/day07/demo05/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08-code/day08-code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08-code/src/cn/itcast/day08/Demo02/Demo01StringEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08-code/src/cn/itcast/day08/Demo02/Demo02StringGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08-code/src/cn/itcast/day08/Demo02/Demo03Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08-code/src/cn/itcast/day08/Demo02/Demo04StringConvert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08-code/src/cn/itcast/day08/Demo02/Demo05StringSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08-code/src/cn/itcast/day08/Demo02/Demo06StringPractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08-code/src/cn/itcast/day08/Demo02/Demo07StringCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08-code/src/cn/itcast/day08/demo01/Demo01String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08-code/src/cn/itcast/day08/demo01/Demo02StringPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day08-code/src/cn/itcast/day08/Demo02/Demo05StringSplit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            <state relative-caret-position="399">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -55,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day08-code/src/cn/itcast/day08/Demo02/Demo06StringPractise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="532">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -64,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day08-code/src/cn/itcast/day08/Demo02/Demo07StringCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+            <state relative-caret-position="95">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -158,8 +131,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="916" />
-    <option name="y" value="70" />
+    <option name="x" value="453" />
+    <option name="y" value="231" />
     <option name="width" value="1443" />
     <option name="height" value="915" />
   </component>
@@ -171,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -206,19 +178,11 @@
               <item name="itcast" type="462c0819:PsiDirectoryNode" />
               <item name="day08" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day08-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="day08" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo02" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,6 +191,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaCodeWars" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -333,18 +298,18 @@
       <option name="presentableId" value="Default" />
       <updated>1590194995438</updated>
       <workItem from="1590194998536" duration="21713000" />
-      <workItem from="1590282037547" duration="14279000" />
+      <workItem from="1590282037547" duration="14534000" />
+      <workItem from="1590413264532" duration="39000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35992000" />
+    <option name="totallyTimeSpent" value="36286000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="951" y="352" width="1443" height="915" extended-state="0" />
-    <editor active="true" />
+    <frame x="453" y="231" width="1443" height="915" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19305857" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19595084" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,7 +318,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3802817" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33034572" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6045673" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -818,22 +783,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day08-code/src/cn/itcast/day08/Demo02/Demo05StringSplit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        <state relative-caret-position="399">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day08-code/src/cn/itcast/day08/Demo02/Demo06StringPractise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="532">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day08-code/src/cn/itcast/day08/Demo02/Demo07StringCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+        <state relative-caret-position="95">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
