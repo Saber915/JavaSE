@@ -7,6 +7,9 @@ public class Demo03StaticStudent {
         Student one = new Student("Saber", 18);
         Student two = new Student("Archer", 18);
 
+        System.out.println(one);
+        System.out.println(two);
+
 
     }
 }
